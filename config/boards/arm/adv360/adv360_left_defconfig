@@ -62,8 +62,8 @@ CONFIG_USB_DEVICE_MANUFACTURER="Kinesis Corporation"
 CONFIG_BT_DIS_MANUF="Kinesis Corporation"
 
 # Turn on logging, and set ZMK logging to debug output
-CONFIG_LOG=y
-CONFIG_ZMK_USB_LOGGING=y
+CONFIG_LOG=n
+CONFIG_ZMK_USB_LOGGING=n
 
 
 
